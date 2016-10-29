@@ -13,6 +13,7 @@ Learning the definitions by heart is a sound strategy in mathematics, because yo
 ![alt text][initial_terminal]
 
 
-[product]: https://cdn.rawgit.com/zartstrom/category-theory/blob/master/src/main/resources/product.svg "Product"
-[equalizer]: https://cdn.rawgit.com/zartstrom/category-theory/blob/master/src/main/resources/equalizer.svg "Equalizer"
-[initial_terminal]: https://cdn.rawgit.com/zartstrom/category-theory/blob/master/src/main/resources/initial_terminal.svg "Initial & Terminal object"
+
+[product]: https://github.com/zartstrom/category-theory/blob/master/src/main/resources/product.svg "Product"
+[equalizer]: https://github.com/zartstrom/category-theory/blob/master/src/main/resources/equalizer.svg "Equalizer"
+[initial_terminal]: https://github.com/zartstrom/category-theory/blob/master/src/main/resources/initial_terminal.svg "Initial & Terminal object"
